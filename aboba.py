@@ -40,7 +40,3 @@ for i, car in enumerate(data):
         loh += 1
 
 print(c_b, loh)
-    
-    
-            
-
